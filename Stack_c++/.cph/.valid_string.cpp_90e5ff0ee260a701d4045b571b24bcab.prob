@@ -1,0 +1,1 @@
+{"name":"Local: valid_string","url":"c:\\PC\\DS & ALGO\\Practice\\Stack_c++\\valid_string.cpp","tests":[{"id":1654754922545,"input":"{{}}{{}}{{{{","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\PC\\DS & ALGO\\Practice\\Stack_c++\\valid_string.cpp","group":"local","local":true}
