@@ -1,3 +1,8 @@
 # here you can add files name which you want to be ignored by git
 # large files make push and pull operation pull, eg. log ,binary
-mylogs.log
+# mylogs.log
+# line 3 tell that ignore mylogs.log myfile anywhere in the computer
+/mylogs.log
+# line 4 tell that only in the directory where git ignore is there there only ignore mylog.log but if present
+# in other directory dont ignore
+*.log
