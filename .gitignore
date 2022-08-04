@@ -1,0 +1,3 @@
+# here you can add files name which you want to be ignored by git
+# large files make push and pull operation pull, eg. log ,binary
+mylogs.log
